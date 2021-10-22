@@ -1,31 +1,32 @@
+"use strict";
 // Creo un arrey di oggetti per ogni membro con nome, role, image
 const ourTeam = [
-    member1 = {
+    {
         nome: "Wayne Barnett",
         role: "Founder & CEO",
         image: "img/wayne-barnett-founder-ceo.jpg"
     },
-    member2 = {
+    {
         nome: "Angela Caroll",
         role: "Chief Editor",
         image: "img/angela-caroll-chief-editor.jpg"
     },
-    member3 = {
+    {
         nome: "Walter Gordon",
         role: "Office Manager",
         image: "img/walter-gordon-office-manager.jpg"
     },
-    member4 = {
+    {
         nome: "Angela Lopez",
         role: "Social Media Manager",
         image: "img/angela-lopez-social-media-manager.jpg"
     },
-    member5 = {
+    {
         nome: "Scott Estrada",
         role: "Developer",
         image: "img/scott-estrada-developer.jpg"
     },
-    member6 = {
+    {
         nome: "Barbara Ramos",
         role: "Graphic Designer",
         image: "img/barbara-ramos-graphic-designer.jpg"
